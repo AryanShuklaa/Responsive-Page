@@ -19,3 +19,4 @@ document.getElementById('registrationForm').addEventListener('submit', function(
         event.preventDefault(); // Prevent form submission
     }
 });
+
